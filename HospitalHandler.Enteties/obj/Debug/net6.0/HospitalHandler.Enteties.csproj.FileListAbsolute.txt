@@ -1,0 +1,14 @@
+C:\Users\yanchevskiy.mv\source\repos\HospitalHandler.Enteties\bin\Debug\net6.0\HospitalHandler.Enteties.deps.json
+C:\Users\yanchevskiy.mv\source\repos\HospitalHandler.Enteties\bin\Debug\net6.0\HospitalHandler.Enteties.runtimeconfig.json
+C:\Users\yanchevskiy.mv\source\repos\HospitalHandler.Enteties\bin\Debug\net6.0\HospitalHandler.Enteties.dll
+C:\Users\yanchevskiy.mv\source\repos\HospitalHandler.Enteties\bin\Debug\net6.0\HospitalHandler.Enteties.pdb
+C:\Users\yanchevskiy.mv\source\repos\HospitalHandler.Enteties\obj\Debug\net6.0\HospitalHandler.Enteties.csproj.AssemblyReference.cache
+C:\Users\yanchevskiy.mv\source\repos\HospitalHandler.Enteties\obj\Debug\net6.0\HospitalHandler.Enteties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanchevskiy.mv\source\repos\HospitalHandler.Enteties\obj\Debug\net6.0\HospitalHandler.Enteties.AssemblyInfoInputs.cache
+C:\Users\yanchevskiy.mv\source\repos\HospitalHandler.Enteties\obj\Debug\net6.0\HospitalHandler.Enteties.AssemblyInfo.cs
+C:\Users\yanchevskiy.mv\source\repos\HospitalHandler.Enteties\obj\Debug\net6.0\HospitalHandler.Enteties.csproj.CoreCompileInputs.cache
+C:\Users\yanchevskiy.mv\source\repos\HospitalHandler.Enteties\obj\Debug\net6.0\HospitalHandler.Enteties.dll
+C:\Users\yanchevskiy.mv\source\repos\HospitalHandler.Enteties\obj\Debug\net6.0\refint\HospitalHandler.Enteties.dll
+C:\Users\yanchevskiy.mv\source\repos\HospitalHandler.Enteties\obj\Debug\net6.0\HospitalHandler.Enteties.pdb
+C:\Users\yanchevskiy.mv\source\repos\HospitalHandler.Enteties\obj\Debug\net6.0\HospitalHandler.Enteties.genruntimeconfig.cache
+C:\Users\yanchevskiy.mv\source\repos\HospitalHandler.Enteties\obj\Debug\net6.0\ref\HospitalHandler.Enteties.dll

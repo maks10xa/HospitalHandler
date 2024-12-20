@@ -1,0 +1,15 @@
+C:\Users\yanchevskiy.mv\source\repos\HospitalHandler.BuisenessLogic\obj\Debug\net6.0\HospitalHandler.BuisenessLogic.csproj.AssemblyReference.cache
+C:\Users\yanchevskiy.mv\source\repos\HospitalHandler.BuisenessLogic\obj\Debug\net6.0\HospitalHandler.BuisenessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanchevskiy.mv\source\repos\HospitalHandler.BuisenessLogic\obj\Debug\net6.0\HospitalHandler.BuisenessLogic.AssemblyInfoInputs.cache
+C:\Users\yanchevskiy.mv\source\repos\HospitalHandler.BuisenessLogic\obj\Debug\net6.0\HospitalHandler.BuisenessLogic.AssemblyInfo.cs
+C:\Users\yanchevskiy.mv\source\repos\HospitalHandler.BuisenessLogic\obj\Debug\net6.0\HospitalHandler.BuisenessLogic.csproj.CoreCompileInputs.cache
+C:\Users\yanchevskiy.mv\source\repos\HospitalHandler.BuisenessLogic\bin\Debug\net6.0\HospitalHandler.BuisenessLogic.deps.json
+C:\Users\yanchevskiy.mv\source\repos\HospitalHandler.BuisenessLogic\bin\Debug\net6.0\HospitalHandler.BuisenessLogic.dll
+C:\Users\yanchevskiy.mv\source\repos\HospitalHandler.BuisenessLogic\bin\Debug\net6.0\HospitalHandler.BuisenessLogic.pdb
+C:\Users\yanchevskiy.mv\source\repos\HospitalHandler.BuisenessLogic\bin\Debug\net6.0\HospitalHandler.Enteties.dll
+C:\Users\yanchevskiy.mv\source\repos\HospitalHandler.BuisenessLogic\bin\Debug\net6.0\HospitalHandler.Enteties.pdb
+C:\Users\yanchevskiy.mv\source\repos\HospitalHandler.BuisenessLogic\obj\Debug\net6.0\Hospital.D5051933.Up2Date
+C:\Users\yanchevskiy.mv\source\repos\HospitalHandler.BuisenessLogic\obj\Debug\net6.0\HospitalHandler.BuisenessLogic.dll
+C:\Users\yanchevskiy.mv\source\repos\HospitalHandler.BuisenessLogic\obj\Debug\net6.0\refint\HospitalHandler.BuisenessLogic.dll
+C:\Users\yanchevskiy.mv\source\repos\HospitalHandler.BuisenessLogic\obj\Debug\net6.0\HospitalHandler.BuisenessLogic.pdb
+C:\Users\yanchevskiy.mv\source\repos\HospitalHandler.BuisenessLogic\obj\Debug\net6.0\ref\HospitalHandler.BuisenessLogic.dll

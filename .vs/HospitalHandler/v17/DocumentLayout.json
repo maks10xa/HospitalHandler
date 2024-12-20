@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yanchevskiy.mv\\source\\repos\\HospitalHandler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{451E0461-7E21-44DC-87F7-AF4B986C1872}|HospitalHandler.csproj|c:\\users\\yanchevskiy.mv\\source\\repos\\hospitalhandler\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451E0461-7E21-44DC-87F7-AF4B986C1872}|HospitalHandler.csproj|solutionrelative:controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451E0461-7E21-44DC-87F7-AF4B986C1872}|HospitalHandler.csproj|c:\\users\\yanchevskiy.mv\\source\\repos\\hospitalhandler\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{451E0461-7E21-44DC-87F7-AF4B986C1872}|HospitalHandler.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C350E7DD-F7BC-4C0B-B523-D09E05AADB37}|..\\HospitalHandler.ConsoleApp\\HospitalHandler.ConsoleApp.csproj|c:\\users\\yanchevskiy.mv\\source\\repos\\hospitalhandler.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51693AC2-A784-4EBA-BF85-697275DADDC2}|..\\HospitalHandler.Enteties\\HospitalHandler.Enteties.csproj|c:\\users\\yanchevskiy.mv\\source\\repos\\hospitalhandler.enteties\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F858758A-5212-406A-9EAF-28BBFD9D536B}|..\\HospitalHandler.BuisenessLogic\\HospitalHandler.BuisenessLogic.csproj|c:\\users\\yanchevskiy.mv\\source\\repos\\hospitalhandler.buisenesslogic\\models\\patientupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F858758A-5212-406A-9EAF-28BBFD9D536B}|..\\HospitalHandler.BuisenessLogic\\HospitalHandler.BuisenessLogic.csproj|c:\\users\\yanchevskiy.mv\\source\\repos\\hospitalhandler.buisenesslogic\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F858758A-5212-406A-9EAF-28BBFD9D536B}|..\\HospitalHandler.BuisenessLogic\\HospitalHandler.BuisenessLogic.csproj|c:\\users\\yanchevskiy.mv\\source\\repos\\hospitalhandler.buisenesslogic\\models\\patientcreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451E0461-7E21-44DC-87F7-AF4B986C1872}|HospitalHandler.csproj|c:\\users\\yanchevskiy.mv\\source\\repos\\hospitalhandler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451E0461-7E21-44DC-87F7-AF4B986C1872}|HospitalHandler.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51693AC2-A784-4EBA-BF85-697275DADDC2}|..\\HospitalHandler.Enteties\\HospitalHandler.Enteties.csproj|c:\\users\\yanchevskiy.mv\\source\\repos\\hospitalhandler.enteties\\data\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F858758A-5212-406A-9EAF-28BBFD9D536B}|..\\HospitalHandler.BuisenessLogic\\HospitalHandler.BuisenessLogic.csproj|c:\\users\\yanchevskiy.mv\\source\\repos\\hospitalhandler.buisenesslogic\\services\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51693AC2-A784-4EBA-BF85-697275DADDC2}|..\\HospitalHandler.Enteties\\HospitalHandler.Enteties.csproj|c:\\users\\yanchevskiy.mv\\source\\repos\\hospitalhandler.enteties\\migrations\\20241218134857_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451E0461-7E21-44DC-87F7-AF4B986C1872}|HospitalHandler.csproj|c:\\users\\yanchevskiy.mv\\source\\repos\\hospitalhandler\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{451E0461-7E21-44DC-87F7-AF4B986C1872}|HospitalHandler.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51693AC2-A784-4EBA-BF85-697275DADDC2}|..\\HospitalHandler.Enteties\\HospitalHandler.Enteties.csproj|c:\\users\\yanchevskiy.mv\\source\\repos\\hospitalhandler.enteties\\entities\\name.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\yanchevskiy.mv\\source\\repos\\HospitalHandler\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\yanchevskiy.mv\\source\\repos\\HospitalHandler\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-18T14:46:18.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\yanchevskiy.mv\\source\\repos\\HospitalHandler.Enteties\\Entities\\Patient.cs",
+              "RelativeDocumentMoniker": "..\\HospitalHandler.Enteties\\Entities\\Patient.cs",
+              "ToolTip": "C:\\Users\\yanchevskiy.mv\\source\\repos\\HospitalHandler.Enteties\\Entities\\Patient.cs",
+              "RelativeToolTip": "..\\HospitalHandler.Enteties\\Entities\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:50:56.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatientCreateModel.cs",
+              "DocumentMoniker": "C:\\Users\\yanchevskiy.mv\\source\\repos\\HospitalHandler.BuisenessLogic\\Models\\PatientCreateModel.cs",
+              "RelativeDocumentMoniker": "..\\HospitalHandler.BuisenessLogic\\Models\\PatientCreateModel.cs",
+              "ToolTip": "C:\\Users\\yanchevskiy.mv\\source\\repos\\HospitalHandler.BuisenessLogic\\Models\\PatientCreateModel.cs",
+              "RelativeToolTip": "..\\HospitalHandler.BuisenessLogic\\Models\\PatientCreateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:38:07.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\yanchevskiy.mv\\source\\repos\\HospitalHandler.BuisenessLogic\\Services\\PatientService.cs",
+              "RelativeDocumentMoniker": "..\\HospitalHandler.BuisenessLogic\\Services\\PatientService.cs",
+              "ToolTip": "C:\\Users\\yanchevskiy.mv\\source\\repos\\HospitalHandler.BuisenessLogic\\Services\\PatientService.cs",
+              "RelativeToolTip": "..\\HospitalHandler.BuisenessLogic\\Services\\PatientService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:36:39.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "C:\\Users\\yanchevskiy.mv\\source\\repos\\HospitalHandler.BuisenessLogic\\Services\\Interfaces\\IPatientService.cs",
+              "RelativeDocumentMoniker": "..\\HospitalHandler.BuisenessLogic\\Services\\Interfaces\\IPatientService.cs",
+              "ToolTip": "C:\\Users\\yanchevskiy.mv\\source\\repos\\HospitalHandler.BuisenessLogic\\Services\\Interfaces\\IPatientService.cs",
+              "RelativeToolTip": "..\\HospitalHandler.BuisenessLogic\\Services\\Interfaces\\IPatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:35:40.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HospitalDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\yanchevskiy.mv\\source\\repos\\HospitalHandler.Enteties\\Data\\HospitalDbContext.cs",
+              "RelativeDocumentMoniker": "..\\HospitalHandler.Enteties\\Data\\HospitalDbContext.cs",
+              "ToolTip": "C:\\Users\\yanchevskiy.mv\\source\\repos\\HospitalHandler.Enteties\\Data\\HospitalDbContext.cs",
+              "RelativeToolTip": "..\\HospitalHandler.Enteties\\Data\\HospitalDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:32:13.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yanchevskiy.mv\\source\\repos\\HospitalHandler.ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\HospitalHandler.ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\yanchevskiy.mv\\source\\repos\\HospitalHandler.ConsoleApp\\Program.cs",
+              "RelativeToolTip": "..\\HospitalHandler.ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:31:30.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yanchevskiy.mv\\source\\repos\\HospitalHandler\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\yanchevskiy.mv\\source\\repos\\HospitalHandler\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:51:45.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientUpdateModel.cs",
+              "DocumentMoniker": "C:\\Users\\yanchevskiy.mv\\source\\repos\\HospitalHandler.BuisenessLogic\\Models\\PatientUpdateModel.cs",
+              "RelativeDocumentMoniker": "..\\HospitalHandler.BuisenessLogic\\Models\\PatientUpdateModel.cs",
+              "ToolTip": "C:\\Users\\yanchevskiy.mv\\source\\repos\\HospitalHandler.BuisenessLogic\\Models\\PatientUpdateModel.cs",
+              "RelativeToolTip": "..\\HospitalHandler.BuisenessLogic\\Models\\PatientUpdateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:48:27.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\yanchevskiy.mv\\source\\repos\\HospitalHandler\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\yanchevskiy.mv\\source\\repos\\HospitalHandler\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "Controllers\\PatientController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwEkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:55:30.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Name.cs",
+              "DocumentMoniker": "C:\\Users\\yanchevskiy.mv\\source\\repos\\HospitalHandler.Enteties\\Entities\\Name.cs",
+              "RelativeDocumentMoniker": "..\\HospitalHandler.Enteties\\Entities\\Name.cs",
+              "ToolTip": "C:\\Users\\yanchevskiy.mv\\source\\repos\\HospitalHandler.Enteties\\Entities\\Name.cs",
+              "RelativeToolTip": "..\\HospitalHandler.Enteties\\Entities\\Name.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:50:48.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yanchevskiy.mv\\source\\repos\\HospitalHandler\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\yanchevskiy.mv\\source\\repos\\HospitalHandler\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T09:53:40.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241218134857_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\yanchevskiy.mv\\source\\repos\\HospitalHandler.Enteties\\Migrations\\20241218134857_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\HospitalHandler.Enteties\\Migrations\\20241218134857_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\yanchevskiy.mv\\source\\repos\\HospitalHandler.Enteties\\Migrations\\20241218134857_InitialCreate.cs",
+              "RelativeToolTip": "..\\HospitalHandler.Enteties\\Migrations\\20241218134857_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:48:58.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
