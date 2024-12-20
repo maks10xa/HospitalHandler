@@ -11,7 +11,7 @@ namespace HospitalHandler.BuisenessLogic.Models
         [Required]
         public Gender Gender { get; set; } = Gender.unknown;
         [Required]
-        public DateTime BirthdDate { get; set; }
+        public DateTime BirthDate { get; set; }
         [Required]
         public bool Active { get; set; } = true;
         [Required]

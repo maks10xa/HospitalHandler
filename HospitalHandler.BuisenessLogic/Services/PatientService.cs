@@ -55,7 +55,7 @@ namespace HospitalHandler.BuisenessLogic.Services
             if (mappedPatient is null || mappedName is null) { throw new Exception("Patient not found!"); }
 
             mappedPatient.Gender = patient.Gender.ToString();
-            mappedPatient.BirthdDate = patient.BirthdDate;
+            mappedPatient.BirthdDate = patient.BirthDate;
             mappedPatient.Active = patient.Active;
 
             mappedName.Use = patient.Use;
