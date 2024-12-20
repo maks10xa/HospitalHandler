@@ -16,9 +16,9 @@ namespace HospitalHandler.Controllers
         }
 
         /// <summary>
-        /// asdasdasd
+        /// get patient
         /// </summary>
-        /// <param name="id"></param>
+        /// <param name="id">patient Id</param>
         /// <returns></returns>
         [HttpGet]
         [Route("")]
@@ -34,6 +34,10 @@ namespace HospitalHandler.Controllers
             }
         }
 
+        /// <summary>
+        /// get all patients
+        /// </summary>
+        /// <returns></returns>
         [HttpGet]
         [Route("all")]
         public async Task<IActionResult> GetPatients()
@@ -48,6 +52,11 @@ namespace HospitalHandler.Controllers
             }
         }
 
+        /// <summary>
+        /// get patients by date
+        /// </summary>
+        /// <param name="birthDate">input birthdate in correct format</param>
+        /// <returns></returns>
         [HttpGet]
         [Route("byDate")]
         public async Task<IActionResult> GetPatientsByBirthDate(string birthDate)
@@ -62,6 +71,11 @@ namespace HospitalHandler.Controllers
             }
         }
         
+        /// <summary>
+        /// create new patient
+        /// </summary>
+        /// <param name="patient"></param>
+        /// <returns></returns>
         [HttpPost("")]
         public async Task<IActionResult> CreatePatient([FromForm]PatientCreateModel patient)
         {
@@ -75,6 +89,11 @@ namespace HospitalHandler.Controllers
             }
         }
 
+        /// <summary>
+        /// update patient
+        /// </summary>
+        /// <param name="patient"></param>
+        /// <returns></returns>
         [HttpPut("")]
         public async Task<IActionResult> UpdatePatient([FromForm]PatientUpdateModel patient)
         {
@@ -88,12 +107,17 @@ namespace HospitalHandler.Controllers
             }
         }
 
+        /// <summary>
+        /// remove patient
+        /// </summary>
+        /// <param name="id">patient Id</param>
+        /// <returns></returns>
         [HttpDelete("")]
-        public async Task<IActionResult> DeletePatient(Guid id)
+        public async Task<IActionResult> RemovePatient(Guid id)
         {
             try
             {
-                await _patientService.DeletePatient(id);
+                await _patientService.RemovePatient(id);
                 return Ok();
             }
             catch (Exception ex)

@@ -2,6 +2,9 @@ using Microsoft.EntityFrameworkCore;
 using HospitalHandler.BuisenessLogic.Services.Interfaces;
 using HospitalHandler.BuisenessLogic.Services;
 using HospitalHandler.Enteties.Data;
+using Microsoft.OpenApi.Models;
+using Microsoft.Extensions.Options;
+using System.Reflection;
 
 namespace TestTask
 {
@@ -17,7 +20,12 @@ namespace TestTask
             });
 
             builder.Services.AddEndpointsApiExplorer();
-            builder.Services.AddSwaggerGen();
+            builder.Services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "HospitalHandler", Version = "v1" });
+                var xmlFilename = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
+                c.IncludeXmlComments(Path.Combine(AppContext.BaseDirectory, xmlFilename));
+            });
 
             builder.Services.AddDbContext<HospitalDbContext>(options =>
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));

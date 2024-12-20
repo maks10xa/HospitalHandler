@@ -10,6 +10,6 @@ namespace HospitalHandler.BuisenessLogic.Services.Interfaces
         Task<IEnumerable<Patient>> GetPatientsByBirthDate(string birthDateInput);
         Task<Patient> CreatePatient(PatientCreateModel type);
         Task<PatientUpdateModel> UpdatePatient(PatientUpdateModel type);
-        Task DeletePatient(Guid id);
+        Task RemovePatient(Guid id);
     }
 }

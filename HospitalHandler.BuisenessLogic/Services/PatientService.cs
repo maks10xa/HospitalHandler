@@ -71,7 +71,7 @@ namespace HospitalHandler.BuisenessLogic.Services
             return patient;
         }
 
-        public async Task DeletePatient(Guid id)
+        public async Task RemovePatient(Guid id)
         {
             var patient = await _context.Patients!.FindAsync(id);
             if (patient is null) { throw new Exception("Patient not found!"); }
